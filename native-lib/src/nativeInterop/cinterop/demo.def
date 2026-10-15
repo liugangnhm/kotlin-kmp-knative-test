@@ -1,0 +1,4 @@
+headers = demo.h
+headerFilter = demo.h
+package = demo.cinterop
+staticLibraries = libdemo.a
